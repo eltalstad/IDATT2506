@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Oving2</string>
+    <string name="title_activity_task1">Task1Activity</string>
+    <string name="generate_random_number">Generate random number</string>
+    <string name="random_number">Random number: </string>
+    <string name="title_activity_task2">Task2Activity</string>
+    <string name="addition">Adder</string>
+    <string name="multiplication">Multipliser</string>
+    <string name="answer">Svar:</string>
+    <string name="upper_limit">Øvre grense:</string>
+    <string name="correct">Riktig!</string>
+    <string name="wrong">Feil. Riktig svar er</string>
+</resources>
