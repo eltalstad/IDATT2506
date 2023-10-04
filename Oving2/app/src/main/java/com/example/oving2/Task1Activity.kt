@@ -44,4 +44,9 @@ class Task1Activity : Activity() {
             textView.text = "Received random number: $resultNumber"
         }
     }
+
+    fun gotoTask2Activity(view: View) {
+        val intent = Intent(this, Task2Activity::class.java)
+        startActivity(intent)
+    }
 }

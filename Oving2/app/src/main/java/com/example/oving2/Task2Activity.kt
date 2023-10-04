@@ -69,6 +69,10 @@ class Task2Activity : Activity() {
     }
 
     private fun requestRandomNumber(requestCode: Int) {
+        val upperLimitEditText = findViewById<EditText>(R.id.upper_limit)
+        var upperLimitString = upperLimitEditText.text.toString()
+        val upperLimit = upperLimitString.toIntOrNull() ?: 100
+
         val intent = Intent(this, RandomNumberActivity::class.java)
         intent.putExtra("UPPER_LIMIT", upperLimit)
         startActivityForResult(intent, requestCode)
@@ -90,5 +94,10 @@ class Task2Activity : Activity() {
                 }
             }
         }
+    }
+
+    fun gotoTask1Activity(view: View) {
+        val intent = Intent(this, Task1Activity::class.java)
+        startActivity(intent)
     }
 }
