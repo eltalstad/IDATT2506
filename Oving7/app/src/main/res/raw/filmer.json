@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "actors": "Christian Bale, Heath Ledger"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "actors": "John Travolta, Samuel L. Jackson"
+  },
+  {
+    "title": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "actors": "Tom Hanks, Robin Wright"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "actors": "Tim Robbins, Morgan Freeman"
+  },
+  {
+    "title": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "actors": "Marlon Brando, Al Pacino"
+  },
+  {
+    "title": "The Matrix",
+    "director": "The Wachowskis",
+    "actors": "Keanu Reeves, Laurence Fishburne"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "actors": "Leonardo DiCaprio, Kate Winslet"
+  },
+  {
+    "title": "Jurassic Park",
+    "director": "Steven Spielberg",
+    "actors": "Sam Neill, Laura Dern"
+  },
+  {
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "actors": "Brad Pitt, Edward Norton"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "actors": "Matthew McConaughey, Anne Hathaway"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "actors": "Russell Crowe, Joaquin Phoenix"
+  },
+  {
+    "title": "Avatar",
+    "director": "James Cameron",
+    "actors": "Sam Worthington, Zoe Saldana"
+  },
+  {
+    "title": "La La Land",
+    "director": "Damien Chazelle",
+    "actors": "Ryan Gosling, Emma Stone"
+  },
+  {
+    "title": "Schindler's List",
+    "director": "Steven Spielberg",
+    "actors": "Liam Neeson, Ralph Fiennes"
+  }
+]

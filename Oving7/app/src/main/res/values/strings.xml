@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Oving7</string>
+    <string-array name="data_options">
+        <item>All Movies</item>
+        <item>Movies By Director</item>
+        <item>Movies By Actor</item>
+    </string-array>
+    <string name="title_activity_color">ColorActivity</string>
+</resources>
